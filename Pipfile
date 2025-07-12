@@ -19,8 +19,13 @@ pypdf2 = "*"
 datetime = "*"
 typing = "*"
 requests = "*"
+langchain-community = "*"
+numexpr = "*"
+duckduckgo-search = "*"
+ddgs = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.12"
